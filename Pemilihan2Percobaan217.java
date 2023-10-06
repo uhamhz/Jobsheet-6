@@ -22,7 +22,7 @@ public class Pemilihan2Percobaan217 {
                 System.out.println("Segitiga Tersebut Adalah Segitiga Sama Sisi");
             }else if ((sudut1 == 120) || (sudut2 == 120) || (sudut3 == 120)){
                 System.out.println("Segitiga Tersebut Adalah Segitiga Tumpul");
-            }else if (sudut1 + sudut2 + sudut3 == 180);
+            }else 
                 System.out.println("Segitiga Tersebut Adalah Segitiga Sembarang");
         } else {
             System.out.println("Bukan Segitiga");
